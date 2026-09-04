@@ -34,6 +34,6 @@ public class Selection_Sort {
 			a[i] = sc.nextInt();
 		}
 		
-		
+		sorting(a);
 	}
 }
